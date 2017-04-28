@@ -81,7 +81,7 @@ header .logo a:active {
   border-bottom: none;
 }
 header .logo .logo-icon {
-  font-size: 60px;
+  font-size: 100px;
   color: #d7ecff;
   text-shadow: 0 0 1px #fff, 0 0 5px #fff, 0 0 15px #228dff;
 }
